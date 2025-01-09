@@ -8,11 +8,11 @@ This project analyzes a dataset to identify customers at risk of churn. The work
 
 The primary aim of this project is to demonstrate proficiency in EDA and predictive modeling while achieving the following objectives:
 
-* 1. **Predicting Customer Churn:** Identify customers likely to churn, helping businesses focus retention efforts.
+* **Predicting Customer Churn:** Identify customers likely to churn, helping businesses focus retention efforts.
 
-* 2. **Improving Retention Strategies:** Provide actionable insights to proactively address churn and enhance customer loyalty.
+* **Improving Retention Strategies:** Provide actionable insights to proactively address churn and enhance customer loyalty.
 
-* 3. **Enhancing Decision-Making:** Use data-driven insights to support strategic planning and improve overall business decision-making processes.
+* **Enhancing Decision-Making:** Use data-driven insights to support strategic planning and improve overall business decision-making processes.
 
 **Business Relevance:**
 
@@ -21,7 +21,8 @@ Predicting churn is a critical business objective, but it is equally important t
 * Highlighting key drivers of churn.
 * Offering strategies to improve customer retention.
 
-**Structure of the Notebook**
+**Structure of the Notebook:**
+
 The notebook is organized into three key parts:
 
 **Part 1: EDA & Model Assumption Checking**
@@ -31,7 +32,6 @@ The notebook is organized into three key parts:
 
 **Part 2: Model Building and Evaluation**
 
-**Resources Used:**
   * Python libraries: This project utilizes Python libraries such as `pandas` and `numpy` for data manipulation, and `matplotlib` and `seaborn` for visualization. Logistic Regression and Decision Tree models are implemented using `scikit-learn`, with tools like `GridSearchCV` for hyperparameter tuning.
   * Model types: Logistic Regression and Decision Tree.
   * Metrics: Accuracy, Precision, Recall, and F1 Score.
