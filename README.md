@@ -4,13 +4,15 @@
 
 This project analyzes a dataset to identify customers at risk of churn. The work includes performing **Exploratory Data Analysis (EDA)**, building predictive models, and deriving actionable insights. The predictive models used are a **binomial logistic regression** model and a **decision tree**. The project demonstrates expertise in data preparation, model evaluation, and interpretation.
 
-**Purpose and Objective**
+**Purpose and Objective:**
 
 The primary aim of this project is to demonstrate proficiency in EDA and predictive modeling while achieving the following objectives:
 
-*1. **Predicting Customer Churn:** Identify customers likely to churn, helping businesses focus retention efforts.
-*2. **Improving Retention Strategies:** Provide actionable insights to proactively address churn and enhance customer loyalty.
-*3. **Enhancing Decision-Making:** Use data-driven insights to support strategic planning and improve overall business decision-making processes.
+* 1. **Predicting Customer Churn:** Identify customers likely to churn, helping businesses focus retention efforts.
+
+* 2. **Improving Retention Strategies:** Provide actionable insights to proactively address churn and enhance customer loyalty.
+
+* 3. **Enhancing Decision-Making:** Use data-driven insights to support strategic planning and improve overall business decision-making processes.
 
 **Business Relevance:**
 
