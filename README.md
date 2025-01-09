@@ -1,6 +1,7 @@
 # DataScienceProject-ChurnPrediction-WazeUsers-EDA-Regression-DecisionTree
 
 **Project Overview:**
+
 This project analyzes a dataset to identify customers at risk of churn. The work includes performing **Exploratory Data Analysis (EDA)**, building predictive models, and deriving actionable insights. The predictive models used are a **binomial logistic regression** model and a **decision tree**. The project demonstrates expertise in data preparation, model evaluation, and interpretation.
 
 **Purpose and Objective**
